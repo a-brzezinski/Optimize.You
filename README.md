@@ -2,7 +2,7 @@
 
 Static application built to practice React Router V6 & Chakra UI.
 
-Live Demo[https://optimizeyou.netlify.app]
+[Live Demo](https://optimizeyou.netlify.app)
 
 
 ## Stack
